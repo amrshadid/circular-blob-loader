@@ -15,7 +15,7 @@ export default class Loader extends Component {
        this.state.spinAnim,
      {
        toValue: 1,
-       duration: 5000,
+       duration: 4000,
        easing: Easing.linear,
        useNativeDriver: true
      }
