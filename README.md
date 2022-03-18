@@ -1,4 +1,4 @@
 # circular-blob-loader using react native -Expo 
 
+![circular-blob-loader](https://user-images.githubusercontent.com/32217515/159055667-4db1db16-f63a-474d-b1ab-e1623a5c48f5.gif)
 
-![Simulator Screen Shot - iPhone 13 mini - 2022-02-18 at 01 26 46](https://user-images.githubusercontent.com/32217515/154588695-28eb9a99-084f-452d-817b-9cebe026b544.png)
